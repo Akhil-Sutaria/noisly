@@ -1,0 +1,22 @@
+{
+  
+    "mp3": {
+      "rain": "https://cdn.noisli.com/mp3/rain/rain.mp3",
+      "thunderstorm": "https://cdn.noisli.com/mp3/thunderstorm/thunderstorm.mp3",
+      "wind": "https://cdn.noisli.com/mp3/wind/wind.mp3",
+      "forest": "https://cdn.noisli.com/mp3/forest/forest.mp3",
+      "leaves": "https://cdn.noisli.com/mp3/leaves/leaves.mp3",
+      "waterstream": "https://cdn.noisli.com/mp3/waterstream/waterstream.mp3",
+      "seaside": "https://cdn.noisli.com/mp3/seaside/seaside.mp3",
+      "water": "https://cdn.noisli.com/mp3/water/water.mp3",
+      "fire": "https://cdn.noisli.com/mp3/fire/fire.mp3",
+      "summernight": "https://cdn.noisli.com/mp3/summernight/summernight.mp3",
+      "coffee": "https://cdn.noisli.com/mp3/coffee/coffee.mp3",
+      "train": "https://cdn.noisli.com/mp3/train/train.mp3",
+      "fan": "https://cdn.noisli.com/mp3/fan/fan.mp3",
+      "whitenoise": "https://cdn.noisli.com/mp3/whitenoise/whitenoise.mp3",
+      "pinknoise": "https://cdn.noisli.com/mp3/pinknoise/pinknoise.mp3",
+      "brownnoise": "https://cdn.noisli.com/mp3/brownnoise/brownnoise.mp3"
+    }
+    
+  }
